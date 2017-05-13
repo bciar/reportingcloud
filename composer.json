@@ -1,0 +1,5 @@
+{
+    "require": {
+        "textcontrol/txtextcontrol-reportingcloud": "^1.3"
+    }
+}
